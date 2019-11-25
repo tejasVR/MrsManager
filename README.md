@@ -1,2 +1,2 @@
 # MrsManager
-A project managment assistant tool to keep larger projects focused and on track
+A project managment assistant tool to keep all types of projects focused and on track
